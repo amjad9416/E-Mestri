@@ -1,0 +1,183 @@
+# view AndroidManifest.xml #generated:144
+-keep class com.mycompany.emestri.Brick { <init>(...); }
+
+# view AndroidManifest.xml #generated:18
+-keep class com.mycompany.emestri.MainActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:156
+-keep class com.mycompany.emestri.b1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:165
+-keep class com.mycompany.emestri.bnext { <init>(...); }
+
+# view AndroidManifest.xml #generated:135
+-keep class com.mycompany.emestri.brick1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:39
+-keep class com.mycompany.emestri.buildi { <init>(...); }
+
+# view AndroidManifest.xml #generated:87
+-keep class com.mycompany.emestri.cc { <init>(...); }
+
+# view AndroidManifest.xml #generated:42
+-keep class com.mycompany.emestri.compound { <init>(...); }
+
+# view AndroidManifest.xml #generated:84
+-keep class com.mycompany.emestri.is { <init>(...); }
+
+# view AndroidManifest.xml #generated:195
+-keep class com.mycompany.emestri.is1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:168
+-keep class com.mycompany.emestri.is2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:213
+-keep class com.mycompany.emestri.li { <init>(...); }
+
+# view AndroidManifest.xml #generated:210
+-keep class com.mycompany.emestri.li2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:207
+-keep class com.mycompany.emestri.li3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:204
+-keep class com.mycompany.emestri.li4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:66
+-keep class com.mycompany.emestri.link { <init>(...); }
+
+# view AndroidManifest.xml #generated:69
+-keep class com.mycompany.emestri.link2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:72
+-keep class com.mycompany.emestri.link3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:75
+-keep class com.mycompany.emestri.link4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:78
+-keep class com.mycompany.emestri.link5 { <init>(...); }
+
+# view AndroidManifest.xml #generated:81
+-keep class com.mycompany.emestri.link6 { <init>(...); }
+
+# view AndroidManifest.xml #generated:189
+-keep class com.mycompany.emestri.linkk { <init>(...); }
+
+# view AndroidManifest.xml #generated:186
+-keep class com.mycompany.emestri.linkk2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:183
+-keep class com.mycompany.emestri.linkk3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:180
+-keep class com.mycompany.emestri.linkk4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:54
+-keep class com.mycompany.emestri.material { <init>(...); }
+
+# view AndroidManifest.xml #generated:57
+-keep class com.mycompany.emestri.next { <init>(...); }
+
+# view AndroidManifest.xml #generated:60
+-keep class com.mycompany.emestri.next2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:63
+-keep class com.mycompany.emestri.next3 { <init>(...); }
+
+# view AndroidManifest.xml #generated:93
+-keep class com.mycompany.emestri.ob { <init>(...); }
+
+# view AndroidManifest.xml #generated:198
+-keep class com.mycompany.emestri.ob1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:174
+-keep class com.mycompany.emestri.ob2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:45
+-keep class com.mycompany.emestri.overhead { <init>(...); }
+
+# view AndroidManifest.xml #generated:153
+-keep class com.mycompany.emestri.p1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:162
+-keep class com.mycompany.emestri.pnext { <init>(...); }
+
+# view AndroidManifest.xml #generated:150
+-keep class com.mycompany.emestri.r1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:90
+-keep class com.mycompany.emestri.ra { <init>(...); }
+
+# view AndroidManifest.xml #generated:192
+-keep class com.mycompany.emestri.rb { <init>(...); }
+
+# view AndroidManifest.xml #generated:177
+-keep class com.mycompany.emestri.rb2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:147
+-keep class com.mycompany.emestri.rcc { <init>(...); }
+
+# view AndroidManifest.xml #generated:138
+-keep class com.mycompany.emestri.rcc1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:123
+-keep class com.mycompany.emestri.rcc4 { <init>(...); }
+
+# view AndroidManifest.xml #generated:114
+-keep class com.mycompany.emestri.rcct { <init>(...); }
+
+# view AndroidManifest.xml #generated:108
+-keep class com.mycompany.emestri.ready { <init>(...); }
+
+# view AndroidManifest.xml #generated:102
+-keep class com.mycompany.emestri.readyt { <init>(...); }
+
+# view AndroidManifest.xml #generated:120
+-keep class com.mycompany.emestri.rein { <init>(...); }
+
+# view AndroidManifest.xml #generated:111
+-keep class com.mycompany.emestri.reinf { <init>(...); }
+
+# view AndroidManifest.xml #generated:105
+-keep class com.mycompany.emestri.reinft { <init>(...); }
+
+# view AndroidManifest.xml #generated:117
+-keep class com.mycompany.emestri.reint { <init>(...); }
+
+# view AndroidManifest.xml #generated:141
+-keep class com.mycompany.emestri.rings { <init>(...); }
+
+# view AndroidManifest.xml #generated:132
+-keep class com.mycompany.emestri.rings1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:159
+-keep class com.mycompany.emestri.rnext { <init>(...); }
+
+# view AndroidManifest.xml #generated:96
+-keep class com.mycompany.emestri.sc { <init>(...); }
+
+# view AndroidManifest.xml #generated:201
+-keep class com.mycompany.emestri.sc1 { <init>(...); }
+
+# view AndroidManifest.xml #generated:171
+-keep class com.mycompany.emestri.sc2 { <init>(...); }
+
+# view AndroidManifest.xml #generated:99
+-keep class com.mycompany.emestri.second { <init>(...); }
+
+# view AndroidManifest.xml #generated:51
+-keep class com.mycompany.emestri.septic { <init>(...); }
+
+# view AndroidManifest.xml #generated:24
+-keep class com.mycompany.emestri.splash { <init>(...); }
+
+# view AndroidManifest.xml #generated:48
+-keep class com.mycompany.emestri.sump { <init>(...); }
+
+# view AndroidManifest.xml #generated:129
+-keep class com.mycompany.emestri.syntex { <init>(...); }
+
+# view AndroidManifest.xml #generated:126
+-keep class com.mycompany.emestri.syntex1 { <init>(...); }
+

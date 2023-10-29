@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mycompany.emestri" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+           
+        </activity>
+		
+		<activity
+            android:name=".splash"
+			
+			>
+			
+		 
+			<intent-filter>
+			<action android:name="android.intent.action.MAIN" />
+
+			<category android:name="android.intent.category.LAUNCHER" />
+		
+				</intent-filter>
+		</activity>
+		<activity
+            android:name=".buildi"/>
+		
+		<activity
+            android:name=".compound"/>
+		<activity
+            android:name=".overhead"/>
+		<activity
+            android:name=".sump"/>
+		<activity
+            android:name=".septic"/>
+		<activity
+            android:name=".material"/>
+		
+		<activity
+            android:name=".next"/>
+		<activity
+            android:name=".next2"/>
+		<activity
+            android:name=".next3"/>
+		
+		<activity
+            android:name=".link"/>
+		<activity
+            android:name=".link2"/>
+		<activity
+            android:name=".link3"/>
+		<activity
+            android:name=".link4"/>
+		
+		<activity
+            android:name=".link5"/>
+		
+		<activity
+            android:name=".link6"/>
+		<activity
+            android:name=".is"/>
+		
+		<activity
+            android:name=".cc"/>
+		
+		<activity
+            android:name=".ra"/>
+		<activity
+            android:name=".ob"/>
+		<activity
+            android:name=".sc"/>
+		
+		<activity
+            android:name=".second"/>
+		
+		<activity android:name=".readyt"/>
+		<activity android:name=".reinft"/>
+		<activity android:name=".ready"/>
+		<activity android:name=".reinf"/>
+		<activity android:name=".rcct"/>
+		<activity android:name=".reint"/>
+		<activity android:name=".rein"/>
+		<activity android:name=".rcc4"/>
+		<activity android:name=".syntex1"/>
+		<activity android:name=".syntex"/>
+		<activity android:name=".rings1"/>
+		<activity android:name=".brick1"/>
+		<activity android:name=".rcc1"/>
+		<activity android:name=".rings"/>
+		<activity android:name=".Brick"/>
+		<activity android:name=".rcc"/>
+		<activity android:name=".r1"/>
+		<activity android:name=".p1"/>
+		<activity android:name=".b1"/>
+		<activity android:name=".rnext"/>
+		<activity android:name=".pnext"/>
+		<activity android:name=".bnext"/>
+		<activity android:name=".is2"/>
+		<activity android:name=".sc2"/>
+		<activity android:name=".ob2"/>
+		<activity android:name=".rb2"/>
+		<activity android:name=".linkk4"/>
+		<activity android:name=".linkk3"/>
+		<activity android:name=".linkk2"/>
+		<activity android:name=".linkk"/>
+		<activity android:name=".rb"/>
+		<activity android:name=".is1"/>
+		<activity android:name=".ob1"/>
+		<activity android:name=".sc1"/>
+		<activity android:name=".li4"/>
+		<activity android:name=".li3"/>
+		<activity android:name=".li2"/>
+		<activity android:name=".li"/>
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+    </application>
+	
+
+</manifest>
